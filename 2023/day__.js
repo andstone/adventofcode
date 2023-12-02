@@ -19,5 +19,5 @@ module.exports = (raw, { report }) => {
   const input = cleanRawInput(raw)
 
   partOne(input, report, NOPE)
-  // partTwo(input, report, NOPE)
+  partTwo(input, report, NOPE)
 }
