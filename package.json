@@ -9,7 +9,7 @@
     "test": "node index.js"
   },
   "keywords": [],
-  "author": "Joshua T Kalis <kalisjoshua@gmail.com> (http://kalisjoshua.me)",
+  "author": "Andrew A Stone <andstone@gmail.com>",
   "license": "MIT",
   "devDependencies": {}
 }
